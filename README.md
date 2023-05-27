@@ -16,7 +16,6 @@ There are two phases in the project:
 In Phase 1, only 1 microphone and 1 speaker are used to simulate a single input single output, SISO system. 
 
 There are three basic communication schemes are used, which include Amplitude Shift Keying (ASK), Frequency Shift Keying (FSK) and Phase Shift Keying (PSK).
-
 The corresponding code are SendPic_ASK.m, SendPic_FSK.m, SendPic_PSK.m in the "Code" folder.
 
 ## Phase 2: MIMO
